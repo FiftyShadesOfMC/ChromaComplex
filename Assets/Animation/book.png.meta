@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: adf54f32b1057fb45992f20e4f7ba98b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lcover
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 432
+        width: 668
+        height: 345
+      alignment: 9
+      pivot: {x: .943106532, y: .816952407}
+    - name: rcover
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 423
+        width: 679
+        height: 363
+      alignment: 9
+      pivot: {x: .06407208, y: .790848136}
+    - name: bspine
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4
+        width: 205
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: lpage
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 668
+        height: 289
+      alignment: 9
+      pivot: {x: .968507409, y: .858797908}
+    - name: rpage
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 76
+        width: 670
+        height: 296
+      alignment: 9
+      pivot: {x: .0357050188, y: .837574124}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HolyFuckingScriptsBatman\PlayerRelated.js">
+    <Files>
+      <File FileName="Assets\HolyFuckingScriptsBatman\PlayerRelated.js" Line="1" Column="1" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\move.js" Line="165" Column="37" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\Controller.js" Line="2" Column="1" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\LevelAccess.js" Line="2" Column="1" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\EnemyAI.js" Line="71" Column="1" />
+      <File FileName="Assets\guiassets\health script.js" Line="74" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

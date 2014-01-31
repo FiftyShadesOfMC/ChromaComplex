@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 744ba0d96acd2e44e9151ef138c52c26
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: waterguy_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 11
+        width: 751
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: waterguy_1
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 418
+        width: 118
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: waterguy_2
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 358
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: waterguy_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 359
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: waterguy_4
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 361
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: waterguy_5
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 17
+        width: 144
+        height: 285
+      alignment: 9
+      pivot: {x: .692932129, y: .0879189223}
+  spritePackingTag: 
+  userData: 

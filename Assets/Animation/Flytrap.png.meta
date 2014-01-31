@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 77f3316787aa75643808ef88ee04328c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Flytrap_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 369
+        width: 165
+        height: 115
+      alignment: 9
+      pivot: {x: .790725231, y: .703713596}
+    - name: Flytrap_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 314
+        width: 235
+        height: 155
+      alignment: 9
+      pivot: {x: .884516835, y: .291279852}
+    - name: Flytrap_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 30
+        width: 47
+        height: 262
+      alignment: 9
+      pivot: {x: .262643844, y: .0504852161}
+    - name: Flytrap_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 252
+        height: 144
+      alignment: 9
+      pivot: {x: .942687869, y: .809881449}
+    - name: Flytrap_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 16
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

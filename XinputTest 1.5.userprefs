@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HolyFuckingScriptsBatman\PlayerRelated.js">
+    <Files>
+      <File FileName="Assets\HolyFuckingScriptsBatman\AudioController.js" Line="296" Column="30" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\move.js" Line="48" Column="27" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\EnemyAI.js" Line="488" Column="26" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\DealPlayerDamage.js" Line="36" Column="20" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\PlayerRelated.js" Line="88" Column="11" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\LevelAccess.js" Line="1" Column="1" />
+      <File FileName="Assets\HolyFuckingScriptsBatman\scene awitch.js" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

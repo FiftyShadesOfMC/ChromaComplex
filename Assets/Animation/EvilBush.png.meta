@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: bfe59e573643f4b4cbc08dd365f7058f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EvilBush
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 272
+        width: 315
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ebeye
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 369
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ebarm
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 141
+        width: 46
+        height: 77
+      alignment: 9
+      pivot: {x: .354490519, y: .804247797}
+    - name: ebleg
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 145
+        width: 43
+        height: 95
+      alignment: 9
+      pivot: {x: .525944173, y: .817058027}
+    - name: ebmouth
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 210
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ebhand
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 46
+        width: 78
+        height: 152
+      alignment: 9
+      pivot: {x: .557208896, y: .89632237}
+    - name: ebfoot
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 34
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

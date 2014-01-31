@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 5c2a1c0f8870c624f9e387282df15dc4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HEADCOLO
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 512
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SHOULDERMONO
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 606
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SHOULDERCOLO
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 604
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 649
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ARMMONO
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 441
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ARMCOLO
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 417
+        width: 61
+        height: 94
+      alignment: 9
+      pivot: {x: .525602758, y: .732608557}
+    - name: HEADMONO
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 282
+        width: 152
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 332
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: HANDMONO
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 309
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: HANDCOLO
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 328
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LEGCOLO
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 296
+        width: 77
+        height: 116
+      alignment: 9
+      pivot: {x: .520283461, y: .782740116}
+    - name: PC_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 153
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: LEGMONO
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 76
+        width: 77
+        height: 114
+      alignment: 9
+      pivot: {x: .560849249, y: .787700176}
+    - name: TORSOMONO
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 64
+        width: 80
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: FOOTCOLO
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 51
+        width: 78
+        height: 121
+      alignment: 9
+      pivot: {x: .500000775, y: .80977875}
+    - name: FOOTMONO
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 85
+        height: 133
+      alignment: 9
+      pivot: {x: .499999911, y: .770086169}
+    - name: TORSOCOLO
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 528
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
